@@ -1,5 +1,11 @@
 # Bulma Changelog
 
+## 0.9.3
+
+### Bug Fixes
+
+Removed z-index from Navbar as it causes multiple problems with more than one Navbar on a page (dropdowns are hidden behind navbars)
+
 ## 0.9.2
 
 ### Breaking change
